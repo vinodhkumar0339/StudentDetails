@@ -1,7 +1,7 @@
 ﻿namespace StudentDetails
 {
 	// GitHub Branch Testing
-	//New Test Branch Student
+	// New Test Branch Student
     public class Studentcs
     {
         public int Id { get; set; }
