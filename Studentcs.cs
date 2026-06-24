@@ -7,5 +7,6 @@
         public string Course { get; set; }
         public string City { get; set; }
         public string address { get; set; }
+        public string address1 { get; set; }
     }
 }
